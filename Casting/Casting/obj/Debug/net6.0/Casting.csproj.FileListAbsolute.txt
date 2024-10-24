@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\bin\Debug\net6.0\Casting.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\bin\Debug\net6.0\Casting.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\bin\Debug\net6.0\Casting.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\bin\Debug\net6.0\Casting.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\refint\Casting.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task14- Casting\Casting\Casting\obj\Debug\net6.0\ref\Casting.dll
